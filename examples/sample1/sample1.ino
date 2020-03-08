@@ -1,6 +1,3 @@
-#include "FS.h"
-#include "SD.h"
-#include "SPI.h"
 #include "truetype.h"
 #include "Adafruit_GFX.h"
 #include "Adafruit_ILI9341.h"
